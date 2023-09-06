@@ -6,3 +6,6 @@
 
 - `add <FILE(S)>`: add files to staging area 
 - `commit`: commit or snapshot files from staging area 
+    - `-m "message"`: commit message in one step
+- `log`: history of commits
+    - `q` lets you scroll
