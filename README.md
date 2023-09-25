@@ -9,3 +9,5 @@
     - `-m "message"`: commit message in one step
 - `log`: history of commits
     - `q` lets you scroll
+
+I'm editing in the online vs code extension!
